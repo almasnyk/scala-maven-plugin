@@ -20,7 +20,7 @@
 		<dependency>
 			<artifactId>lift-util</artifactId>
 			<groupId>net.liftweb</groupId>
-			<version>1.0</version>
+			<version>1.0.3</version>
 		</dependency>
 		<dependency>
  			<groupId>org.openid4java</groupId>
