@@ -181,7 +181,7 @@
     <dependency>
       <groupId>org.scala-sbt</groupId>
       <artifactId>zinc_2.13</artifactId>
-      <version>1.7.0</version>
+      <version>1.9.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.jline</groupId>
@@ -432,7 +432,7 @@
               <excludes>
                 <exclude>src/main/java/scala_maven/ScalaCompilerLoader.java</exclude>
               </excludes>
-              <googleJavaFormat />
+              <googleJavaFormat/>
               <licenseHeader>
                 <file>${project.basedir}/src/etc/header.txt</file>
               </licenseHeader>
